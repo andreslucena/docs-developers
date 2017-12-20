@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* Adding new features
+* [Adding new features](adding-new-features.md)
 
 ## Getting started
 
