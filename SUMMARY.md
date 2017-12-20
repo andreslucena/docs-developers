@@ -13,7 +13,7 @@
 ## Customization
 
 * [Introduction](customization/introduction.md)
-* Templating
+* [Templating](customization/templating.md)
 * Texts & Translations
 * Images
 * Javascript
