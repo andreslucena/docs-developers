@@ -1,14 +1,13 @@
 # Summary
 
 * [Introduction](README.md)
-* [Adding new features](adding-new-features.md)
 
 ## Getting started
 
-* [Installation \(short version\) ](how-do-i-install-decidim/installation-short-version.md)
-* [Installation \(long version\) ](how-do-i-install-decidim.md)
-* [How do I update?](how-do-i-install-decidim/how-do-i-update.md)
-* [Contributing](how-do-i-install-decidim/contributing.md)
+* [Installation \(short version\) ](getting-started/short.md)
+* [Installation \(long version\) ](getting-started/long.md)
+* [How do I update?](getting-started/update.md)
+* [Contributing](getting-started/contributing.md)
 
 ## Customization
 
