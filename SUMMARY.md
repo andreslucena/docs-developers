@@ -4,22 +4,19 @@
 
 ## Getting started
 
-* [Installation \(short version\) ](getting-started/short.md)
-* [Installation \(long version\) ](getting-started/long.md)
+* [Installation](getting-started/short.md)
 * [How do I update?](getting-started/update.md)
 
 ## Customization
 
 * [Introduction](customization/introduction.md)
-* [Templating](customization/templating.md)
 * [Texts](customization/texts.md)
 * [Images](customization/images.md)
 * [Javascript](customization/javascript.md)
-* [Gems](customization/gems.md)
+* [Gems](customization/gemfile.md)
 * [Code](customization/code.md)
 * [Views (HTML)](customization/views.md)
 * [Styles](customization/styles.md)
-* [Gemfile](customization/gemfile.md)
 * [Verifications](customization/verifications.md)
 
 ## Services
@@ -36,6 +33,7 @@
 
 ## Advanced
 
+* [Manual installation](advanced/manual-installation.md)
 * [Features and components](advanced/features_and_components.md)
 * [Followers from comment](advanced/followers-from-comment-authors.md)
 * [Followers from resource](advanced/followers-from-resource-authors.md)

@@ -1,17 +1,12 @@
 # Installation (short version) 
 
-First of all, you need to install the `decidim` gem:
+We have a nice Decidim installation script for Ubuntu 16.04 LTS and macos sierra 10.2
+
+It will create a new Ruby on Rails environment, so if you have any or you're already a RoR developer we recommend that you follow the manual installation instructions.
+
+This script will install rbenv, postgresql, nodejs and install decidim on this directory and it'll take from 15 to 30 minutes depending on your network connection
 
 ```
-$ gem install decidim
+\curl -sSL http://get.decidim.org | bash 
 ```
 
-Afterwards, you can create an application with the nice `decidim` executable:
-
-```
-$ decidim decidim_application
-```
-
-Once you've created it, you have a good old Decidim Vanilla Application, that works mostly as a Rails Vanilla Application where you can add your own or community modules,  change the look and feel, overrride Decidim's code, configure the deploy with your own architecture, your own verification, etc. 
-
-For local development you should at least configure the database. We recommend using PostgreSQL, if you have any doubts regarding the installation you should keep reading this guide.  
