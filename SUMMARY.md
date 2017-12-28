@@ -12,18 +12,15 @@
 
 * [Introduction](customization/introduction.md)
 * [Templating](customization/templating.md)
-* Texts & Translations
-* Images
-* Javascript
-* Gems
-* Models
-* Views & Styles
-* Overwritting Application
-
-## Modules
-
-* Introduction 
-* [How do I create a new module? ](modules/how-do-i-create-a-new-module.md)
+* [Texts](customization/texts.md)
+* [Images](customization/images.md)
+* [Javascript](customization/javascript.md)
+* [Gems](customization/gems.md)
+* [Code](customization/code.md)
+* [Views (HTML)](customization/views.md)
+* [Styles](customization/styles.md)
+* [Gemfile](customization/gemfile.md)
+* [Verifications](customization/verifications.md)
 
 ## Services
 
@@ -65,4 +62,3 @@
 * [Surveys](modules/decidim-module-surveys.md)
 * [System](modules/decidim-module-system.md)
 * [Verifications](modules/decidim-module-verifications.md)
-* [How do I create a new module?](modules/how-do-i-create-a-new-module.md)
