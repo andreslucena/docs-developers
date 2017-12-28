@@ -6,7 +6,7 @@
 
 * [Installation](getting-started/short.md)
 * [Browse](getting-started/browse.md)
-* [How do I update?](getting-started/update.md)
+* [Update](getting-started/update.md)
 
 ## Customization
 
@@ -16,7 +16,7 @@
 * [Javascript](customization/javascript.md)
 * [Gems](customization/gemfile.md)
 * [Code](customization/code.md)
-* [Views (HTML)](customization/views.md)
+* [Views \(HTML\)](customization/views.md)
 * [Styles](customization/styles.md)
 * [Verifications](customization/verifications.md)
 
@@ -37,10 +37,10 @@
 * [Manual installation](advanced/manual-installation.md)
 * [Library documentation](advanced/library.md)
 * [Features](advanced/features_and_components.md)
-* [Followers from comment](advanced/followers-from-comment-authors.md)
-* [Followers from resource](advanced/followers-from-resource-authors.md)
+* [Create followers from comment authors](advanced/followers-from-comment-authors.md)
+* [Create followers from resource authors](advanced/followers-from-resource-authors.md)
 * [How to create a plugin](advanced/how_to_create_a_plugin.md)
-* [Managing translations (i18n)](advanced/managing_translations_i18n.md)
+* [Managing translations \(i18n\)](advanced/managing_translations_i18n.md)
 * [Migrate to 0.8.0](advanced/migrate_to_0.8.0.md)
 * [Badges](advanced/badges.md)
 * [Testing](advanced/testing.md)
@@ -48,6 +48,7 @@
 * [View hooks](advanced/view-hooks.md)
 
 ## Modules
+
 * [Accountability](modules/decidim-module-accountability.md)
 * [Admin](modules/decidim-module-admin.md)
 * [API](modules/decidim-module-api.md)
@@ -64,3 +65,4 @@
 * [Surveys](modules/decidim-module-surveys.md)
 * [System](modules/decidim-module-system.md)
 * [Verifications](modules/decidim-module-verifications.md)
+
