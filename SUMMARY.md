@@ -20,6 +20,12 @@
 * [Styles](customization/styles.md)
 * [Verifications](customization/verifications.md)
 
+## Deploy
+
+* [Self Hosted](deploy/selfhosted.md)
+* [Docker](deploy/docker.md)
+* [Heroku](deploy/heroku.md)
+
 ## Services
 
 * [OAUTH \(Social providers\)](services/oauth-social-providers.md)
@@ -47,22 +53,39 @@
 * [Tradeoffs](advanced/tradeoffs.md)
 * [View hooks](advanced/view-hooks.md)
 
-## Modules
+## Modules (Official)
 
 * [Accountability](modules/decidim-module-accountability.md)
 * [Admin](modules/decidim-module-admin.md)
 * [API](modules/decidim-module-api.md)
 * [Assemblies](modules/decidim-module-assemblies.md)
+* [Blogs (beta)](modules/decidim-module-blogs.md)
 * [Budgets](modules/decidim-module-budgets.md)
 * [Comments](modules/decidim-module-comments.md)
 * [Core](modules/decidim-module-core.md)
 * [Design](modules/decidim-module-design.md)
 * [Dev](modules/decidim-module-dev.md)
+* [Initiatives](modules/decidim-module-initiatives.md)
 * [Meetings](modules/decidim-module-meetings.md)
 * [Pages](modules/decidim-module-pages.md)
 * [Participatory Processes](modules/decidim-module-participatory_processes.md)
 * [Proposals](modules/decidim-module-proposals.md)
+* [Sortitions (beta)](modules/decidim-module-sortitions.md)
 * [Surveys](modules/decidim-module-surveys.md)
 * [System](modules/decidim-module-system.md)
 * [Verifications](modules/decidim-module-verifications.md)
+
+## Modules (Community)
+
+* [Votings](modules/decidim-module-votings.md)
+* [User Export](modules/decidim-module-user-export.md)
+* [Crowdfundings](modules/decidim-module-crowdfundings.md)
+* [Census](modules/decidim-module-census.md)
+* [Verification DIBA Census API](modules/decidim-module-verification-census-diba.md)
+* [Verification Barcelona Census API](modules/decidim-module-verification-census-barcelona.md)
+* [Pol.is](modules/decidim-module-polis.md)
+* [Members](modules/decidim-module-members.md)
+* [Surveys (Hospitalet)](modules/decidim-module-surveys-hospitalet.md)
+* [DataViz (Barcelona)](modules/decidim-module-dataviz-barcelona.md)
+* [Debates (Barcelona)](modules/decidim-module-debates-barcelona.md)
 

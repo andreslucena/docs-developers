@@ -1,5 +1,23 @@
 #!/usr/bin/env bash 
 
+# TODO: add modules
+# https://github.com/decidim/decidim-module-sortitions
+# https://github.com/decidim/decidim-module-blogs
+# https://github.com/decidim/decidim-initiatives
+# https://github.com/decidim/decidim-results
+
+# https://github.com/HospitaletDeLlobregat/decidim-hospitalet/tree/master/decidim_hospitalet-surveys
+# https://github.com/AjuntamentdeBarcelona/decidim-barcelona/tree/master/decidim-dataviz
+# https://github.com/AjuntamentdeBarcelona/decidim-barcelona/tree/master/decidim-debates
+# https://github.com/diputacioBCN/decidim-diba/tree/master/decidim-census
+# https://github.com/diputacioBCN/decidim-diba/tree/master/decidim-diba_census_api 
+# https://github.com/OpenSourcePolitics/decidim-efb/tree/master/decidim-polis
+# https://github.com/ElectricThings/decidim-members
+# https://github.com/MarsBased/decidim-diba/tree/master/decidim-census
+# https://github.com/OpenSourcePolitics/decidim-user-export
+# https://github.com/podemos-info/decidim-module-votings 
+# https://github.com/podemos-info/decidim-module-crowdfundings
+
 if [ -d /tmp/decidim/ ] ; then 
 	cd /tmp/decidim/ 
 	git pull origin master 
