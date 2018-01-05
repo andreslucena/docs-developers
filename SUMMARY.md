@@ -55,9 +55,9 @@
 
 ## Modules (Official)
 
+* [API](modules/decidim-module-api.md)
 * [Accountability](modules/decidim-module-accountability.md)
 * [Admin](modules/decidim-module-admin.md)
-* [API](modules/decidim-module-api.md)
 * [Assemblies](modules/decidim-module-assemblies.md)
 * [Blogs (beta)](modules/decidim-module-blogs.md)
 * [Budgets](modules/decidim-module-budgets.md)
@@ -77,15 +77,14 @@
 
 ## Modules (Community)
 
-* [Votings](modules/decidim-module-votings.md)
-* [User Export](modules/decidim-module-user-export.md)
-* [Crowdfundings](modules/decidim-module-crowdfundings.md)
 * [Census](modules/decidim-module-census.md)
-* [Verification DIBA Census API](modules/decidim-module-verification-census-diba.md)
-* [Verification Barcelona Census API](modules/decidim-module-verification-census-barcelona.md)
-* [Pol.is](modules/decidim-module-polis.md)
-* [Members](modules/decidim-module-members.md)
-* [Surveys (Hospitalet)](modules/decidim-module-surveys-hospitalet.md)
+* [Crowdfundings](modules/decidim-module-crowdfundings.md)
 * [DataViz (Barcelona)](modules/decidim-module-dataviz-barcelona.md)
 * [Debates (Barcelona)](modules/decidim-module-debates-barcelona.md)
-
+* [Members](modules/decidim-module-members.md)
+* [Pol.is](modules/decidim-module-polis.md)
+* [Surveys (Hospitalet)](modules/decidim-module-surveys-hospitalet.md)
+* [User Export](modules/decidim-module-user-export.md)
+* [Verification Barcelona Census API](modules/decidim-module-verification-census-barcelona.md)
+* [Verification DIBA Census API](modules/decidim-module-verification-census-diba.md)
+* [Votings](modules/decidim-module-votings.md)
