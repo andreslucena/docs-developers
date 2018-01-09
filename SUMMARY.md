@@ -26,11 +26,6 @@
 * [Docker](deploy/docker.md)
 * [Heroku](deploy/heroku.md)
 
-## Services
-
-* [OAUTH \(Social providers\)](services/oauth-social-providers.md)
-* [Analytics](services/analytics.md)
-* [Geocoding](services/geocoding.md)
 
 ## About the project
 
@@ -43,8 +38,7 @@
 * [Manual installation](advanced/manual-installation.md)
 * [Library documentation](advanced/library.md)
 * [Features](advanced/features_and_components.md)
-* [Create followers from comment authors](advanced/followers-from-comment-authors.md)
-* [Create followers from resource authors](advanced/followers-from-resource-authors.md)
+* [Followers](advanced/followers.md)
 * [How to create a plugin](advanced/how_to_create_a_plugin.md)
 * [Managing translations \(i18n\)](advanced/managing_translations_i18n.md)
 * [Migrate to 0.8.0](advanced/migrate_to_0.8.0.md)
@@ -52,6 +46,10 @@
 * [Testing](advanced/testing.md)
 * [Tradeoffs](advanced/tradeoffs.md)
 * [View hooks](advanced/view-hooks.md)
+* [Services](advanced/services/services.md)
+  * [OAUTH \(Social providers\)](advanced/services/oauth-social-providers.md)
+  * [Analytics](advanced/services/analytics.md)
+  * [Geocoding](advanced/services/geocoding.md)
 
 ## Modules (Official)
 
