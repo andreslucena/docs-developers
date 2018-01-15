@@ -39,7 +39,7 @@
 * [Library documentation](advanced/library.md)
 * [Features](advanced/features_and_components.md)
 * [Followers](advanced/followers.md)
-* [How to create a plugin](advanced/how_to_create_a_plugin.md)
+* [How to create a module](advanced/how_to_create_a_module.md)
 * [Managing translations \(i18n\)](advanced/managing_translations_i18n.md)
 * [Migrate to 0.8.0](advanced/migrate_to_0.8.0.md)
 * [Badges](advanced/badges.md)
